@@ -1,1 +1,1 @@
-{"version":"1.0.0","news":"Release"}
+{"version":"1.0.1","news":"Remove the need for having the metadata as "Blank"."}
