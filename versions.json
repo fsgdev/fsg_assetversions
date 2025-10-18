@@ -6,7 +6,7 @@
     },
     {
       "version": "1.0.1", 
-      "changes": "Fixed QBCore & QBox compatibility issues"
+      "changes": "Fixed QBCore & QBox compatibility issues, Added Version Checks"
     }
   ]
 }
