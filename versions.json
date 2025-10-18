@@ -1,1 +1,12 @@
-{ "fsg_pressurewasher": [ { "version":"1.0.1","changes":"Fixed issue with QBCore & QBox Support" } ] }
+{
+  "fsg_pressurewasher": [
+    {
+      "version": "1.0.0",
+      "changes": "Initial release"
+    },
+    {
+      "version": "1.0.1", 
+      "changes": "Fixed QBCore & QBox compatibility issues"
+    }
+  ]
+}
