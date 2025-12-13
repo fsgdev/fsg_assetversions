@@ -7,6 +7,10 @@
     {
       "version": "1.0.1", 
       "changes": "Fixed QBCore & QBox compatibility issues, Added Version Checks"
+    },
+    {
+      "version": "1.0.2", 
+      "changes": "Fixed certain issues with UI not hiding properly and sometimes not showing"
     }
   ]
 }
