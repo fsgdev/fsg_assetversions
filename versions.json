@@ -12,5 +12,11 @@
       "version": "1.0.2", 
       "changes": "Fixed certain issues with UI not hiding properly and sometimes not showing"
     }
+  ],
+  "fsg_cooking": [
+    {
+      "version": "1.0.0",
+      "changes": "Initial release"
+    }
   ]
 }
