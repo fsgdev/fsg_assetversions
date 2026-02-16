@@ -27,6 +27,10 @@
     {
       "version": "1.0.0",
       "changes": "Initial release"
+    },
+    {
+      "version": "1.0.1",
+      "changes": "Improve compatibility with QBCore & QBox"
     }
   ]
 }
