@@ -31,6 +31,10 @@
     {
       "version": "1.0.1",
       "changes": "Improve compatibility with QBCore & QBox"
+    },
+    {
+      "version": "1.0.2",
+      "changes": "Add exports for compatibility layers"
     }
   ]
 }
