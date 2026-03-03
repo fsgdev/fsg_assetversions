@@ -14,6 +14,10 @@
     },
     {
       "version": "1.0.3", 
+      "changes": "Fixed certain issues with UI not hiding properly and sometimes not showing"
+    },
+    {
+      "version": "1.0.4", 
       "changes": "Fixed issues with certain clients being shown invalid props"
     }
   ],
