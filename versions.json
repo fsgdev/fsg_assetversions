@@ -11,6 +11,10 @@
     {
       "version": "1.0.2", 
       "changes": "Fixed certain issues with UI not hiding properly and sometimes not showing"
+    },
+    {
+      "version": "1.0.3", 
+      "changes": "Fixed issues with certain clients being shown invalid props"
     }
   ],
   "fsg_cooking": [
@@ -35,6 +39,16 @@
     {
       "version": "1.0.2",
       "changes": "Add exports for compatibility layers"
+    }
+  ]
+  "fsg_vipshop": [
+    {
+      "version": "1.0.0",
+      "changes": "Initial release"
+    },
+    {
+      "version": "1.0.1",
+      "changes": "Fixed issues with not going into database correctly"
     }
   ]
 }
