@@ -14,7 +14,7 @@
     },
     {
       "version": "1.0.3", 
-      "changes": "Fixed certain issues with UI not hiding properly and sometimes not showing"
+      "changes": "Fixed certain issues with having to pick up pressure washer gun twice in order for it to work properly"
     },
     {
       "version": "1.0.4", 
