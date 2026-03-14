@@ -29,6 +29,10 @@
     {
       "version": "1.0.1",
       "changes": "Added Version Checks"
+    },
+    {
+      "version": "1.0.2",
+      "changes": "Replaced coroutine's as caused interference with anti-cheats."
     }
   ],
   "fsg_banking": [
