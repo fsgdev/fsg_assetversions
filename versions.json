@@ -47,6 +47,10 @@
     {
       "version": "1.0.2",
       "changes": "Add exports for compatibility layers"
+    },
+    {
+      "version": "1.0.3",
+      "changes": "Add locales for currency symbol"
     }
   ],
   "fsg_vipshop": [
