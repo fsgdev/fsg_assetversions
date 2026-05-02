@@ -51,6 +51,10 @@
     {
       "version": "1.0.3",
       "changes": "Add locales for currency symbol"
+    },
+    {
+      "version": "1.0.4",
+      "changes": "Fixed occasional issues with daily withdrawals"
     }
   ],
   "fsg_vipshop": [
