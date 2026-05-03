@@ -65,6 +65,18 @@
     {
       "version": "1.0.1",
       "changes": "Fixed issues with not going into database correctly"
+    },
+    {
+      "version": "1.0.2",
+      "changes": "1.0.2"
+    },
+    {
+      "version": "1.0.3",
+      "changes": "Fixed gifting issue"
+    },
+    {
+      "version": "1.0.4",
+      "changes": "Add discord role grants"
     }
   ]
 }
