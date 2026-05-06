@@ -33,6 +33,10 @@
     {
       "version": "1.0.2",
       "changes": "Replaced coroutine's as caused interference with anti-cheats."
+    },
+    {
+      "version": "1.0.3",
+      "changes": "Upped ratelimit on syncing props"
     }
   ],
   "fsg_banking": [
