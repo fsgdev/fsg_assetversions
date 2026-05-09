@@ -37,6 +37,10 @@
     {
       "version": "1.0.3",
       "changes": "Upped ratelimit on syncing props"
+    },
+    {
+      "version": "1.0.4",
+      "changes": "Added optional statebag storage for syncing props"
     }
   ],
   "fsg_banking": [
