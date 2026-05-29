@@ -19,6 +19,10 @@
     {
       "version": "1.0.4", 
       "changes": "Fixed issues with certain clients being shown invalid props"
+    },
+    {
+      "version": "1.0.5", 
+      "changes": "Reworked Gizmo System to fix certain issues"
     }
   ],
   "fsg_cooking": [
