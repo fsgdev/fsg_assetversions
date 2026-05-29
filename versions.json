@@ -41,6 +41,10 @@
     {
       "version": "1.0.4",
       "changes": "Added optional statebag storage for syncing props"
+    },
+    {
+      "version": "1.0.5",
+      "changes": "Added QB-Inventory / QB-Target Compatibility, Reworked Gizmo System to fix certain issues"
     }
   ],
   "fsg_banking": [
