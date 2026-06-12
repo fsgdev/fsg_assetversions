@@ -49,6 +49,10 @@
     {
       "version": "1.0.5",
       "changes": "Added QB-Inventory / QB-Target Compatibility, Reworked Gizmo System to fix certain issues"
+    },
+    {
+      "version": "1.0.6",
+      "changes": "Added French & Spanish Locales"
     }
   ],
   "fsg_banking": [
