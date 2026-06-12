@@ -23,6 +23,14 @@
     {
       "version": "1.0.5", 
       "changes": "Reworked Gizmo System to fix certain issues"
+    },
+    {
+      "version": "1.0.6", 
+      "changes": "Added French & Spanish Locales"
+    },
+    {
+      "version": "1.0.7", 
+      "changes": "Added better handling for prop spawn & sync"
     }
   ],
   "fsg_cooking": [
