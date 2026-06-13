@@ -31,6 +31,10 @@
     {
       "version": "1.0.7", 
       "changes": "Added better handling for prop spawn & sync"
+    },
+    {
+      "version": "1.0.8", 
+      "changes": "Fixed sync issue when leaving area / coming back"
     }
   ],
   "fsg_cooking": [
