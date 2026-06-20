@@ -67,6 +67,12 @@
       "changes": "Added French & Spanish Locales"
     }
   ],
+  "fsg_nametags": [
+    {
+      "version": "1.0.0",
+      "changes": "Initial release"
+    }
+  ],
   "fsg_banking": [
     {
       "version": "1.0.0",
