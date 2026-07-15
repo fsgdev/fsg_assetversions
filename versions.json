@@ -65,12 +65,32 @@
     {
       "version": "1.0.6",
       "changes": "Added French & Spanish Locales"
+    },
+    {
+      "version": "1.0.7",
+      "changes": "Added multi-inventory compatibility to ESX."
     }
   ],
   "fsg_nametags": [
     {
       "version": "1.0.0",
       "changes": "Initial release"
+    },
+    {
+      "version": "1.0.1",
+      "changes": "Added Compatibility for XAMPP Databases."
+    },
+    {
+      "version": "1.0.2",
+      "changes": "Added Config to have Nametags on by default and ability to not be able to disable."
+    },
+    {
+      "version": "1.0.4",
+      "changes": "Fixed issues with nametags not appearing at certain times."
+    },
+    {
+      "version": "1.0.5",
+      "changes": "Fixed Database collation issues."
     }
   ],
   "fsg_banking": [
@@ -115,6 +135,10 @@
     {
       "version": "1.0.4",
       "changes": "Add discord role grants"
+    },
+    {
+      "version": "1.0.5",
+      "changes": "Fixed issue with Admin Permissions on QB / QBox."
     }
   ]
 }
