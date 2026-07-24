@@ -115,6 +115,12 @@
       "changes": "Fixed occasional issues with daily withdrawals"
     }
   ],
+  "fsg_gamestation": [
+    {
+      "version": "1.0.0",
+      "changes": "Initial release"
+    }
+  ],
   "fsg_vipshop": [
     {
       "version": "1.0.0",
@@ -139,6 +145,14 @@
     {
       "version": "1.0.5",
       "changes": "Fixed issue with Admin Permissions on QB / QBox."
+    },
+    {
+      "version": "1.0.6",
+      "changes": "Fixed issue with test drive not giving keys"
+    },
+    {
+      "version": "1.0.7",
+      "changes": "Fixed issue with test drive not giving keys"
     }
   ]
 }
