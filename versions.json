@@ -119,6 +119,10 @@
     {
       "version": "1.0.0",
       "changes": "Initial release"
+    },
+    {
+      "version": "1.0.1",
+      "changes": "Fixes to synchronization"
     }
   ],
   "fsg_vipshop": [
