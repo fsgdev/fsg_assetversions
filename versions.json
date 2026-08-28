@@ -125,6 +125,12 @@
       "changes": "Fixes to synchronization"
     }
   ],
+  "fsg_hoverboards": [
+    {
+      "version": "1.0.0",
+      "changes": "Initial release"
+    }
+  ],
   "fsg_vipshop": [
     {
       "version": "1.0.0",
